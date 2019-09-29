@@ -1,0 +1,2 @@
+## SpringBoot集成sharding-jdbc
+该工程为SpringBoot集成Sharding-JDBC的demo，运行前先执行start.sql,创建数据库和表，并且更改配置文件中的数据库信息
